@@ -15,16 +15,5 @@ class MainActivity : AppCompatActivity() {
             Log.e("메인화면", "e로 로그 찍기 버튼 누름")
         }
 
-
-
-
-
-
-
-
-
-
-
-
     }
 }
