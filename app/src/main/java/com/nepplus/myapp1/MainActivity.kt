@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         btnLog.setOnClickListener {
             Log.d("메인화면","로그 찍기버튼 누름")
-            Log.e("메인화면", "e로 로그 찍기 버튼 누름")
+            Log.e("메인화면", "e로 로그 찍어보기")
         }
 
     }
